@@ -46,11 +46,9 @@ The platform is designed for educational, research, and experimental purposes.
 
 ## System Architecture
 
-```
-
+```bash
 Scenario Generator → Simulation Engine → Decision Agent → Metrics Collector → Analytics Dashboard
-
-````
+```
 
 ---
 
@@ -67,6 +65,7 @@ Scenario Generator → Simulation Engine → Decision Agent → Metrics Collecto
 ## Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/your-username/ethical-av-simulator.git
    cd ethical-av-simulator
@@ -92,10 +91,10 @@ Scenario Generator → Simulation Engine → Decision Agent → Metrics Collecto
 
 ## Metrics
 
-* Passenger injury risk
-* Number of pedestrians affected
-* Damage estimation
-* Combined utility score
+- Passenger injury risk
+- Number of pedestrians affected
+- Damage estimation
+- Combined utility score
 
 ---
 
@@ -107,8 +106,8 @@ Scenario Generator → Simulation Engine → Decision Agent → Metrics Collecto
 
 ## Team
 
-* ML / Decision algorithms
-* Simulation engineering
-* Analytics & visualization
+- ML / Decision algorithms
+- Simulation engineering
+- Analytics & visualization
 
 ---
